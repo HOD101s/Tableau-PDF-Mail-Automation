@@ -1,172 +1,25 @@
 {
 "sites":[
 {
-    "site_name":"Finance",
-    "dept" : "ACCOUNTS/FINANCE (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "finance@bhaktivedantahospital.com"
+    "site_name":"x",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
 },
 {
-    "site_name":"CSSD",
-    "dept" : "CSSD (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "cssd@bhaktivedantahospital.com"
+    "site_name":"y",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
 },
 {
-    "site_name":"FloorFacilitator",
-    "dept" : "Floor Facilatator (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "ff@bhaktivedantahospital.com"
+    "site_name":"z",
+    "dept" : "",
+    "user" : "**",
+    "pass" : "**",
+    "email" : "" 
 },
-{
-    "site_name":"Diet",
-    "dept" : "DIET & NUTRITION (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "dietician@bhaktivedantahospital.com"
-},
-{
-    "site_name":"ITInfra",
-    "dept" : "IT INFRA (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "itinfra@bhaktivedantahospital.com"
-},
-{
-    "site_name":"IT_IS",
-    "dept" : "IT IS (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "ithis@bhaktivedantahospital.com"
-},
-{
-    "site_name":"MedicalRecords",
-    "dept" : "MRD (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "medicalrecord@bhaktivedantahospital.com"
-},
-{
-    "site_name":"MaintenanceProjects",
-    "dept" : "MAINTENANCE PROJECT (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "maintenance@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Maintenance_NewBuilding",
-    "dept" : "MAINTENANCE (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "maintenance@bhaktivedantahospital.com"
-},
-{
-    "site_name":"GeneralMM_Financials",
-    "dept" : "PURCHASE (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "purchase@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Pharmacy_Financials",
-    "dept" : "PHARMACY (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "pharmacy@bhaktivedantahospital.com"
-},
-{
-    "site_name":"BrandingPromotions",
-    "dept" : "BRANDING AND PROMOTION (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "branding@bhaktivedantahospital.com"
-},
-{
-    "site_name":"CorporateRelation",
-    "dept" : "CUSTOMER RELATION & MARKETING (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "branding@bhaktivedantahospital.com"
-},
-{
-    "site_name":"FrontDesk",
-    "dept" : "FRONT DESK (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "billing1@bhaktivedanatahospital.com"
-},
-{
-    "site_name":"Billing_Financials",
-    "dept" : "IPD (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "billing1@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Nursing",
-    "dept" : "NURSING (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "nursing@bhaktivedantahospital.com"
-},
-{
-    "site_name":"HR",
-    "dept" : "HR (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "aneetab@bhaktivedantahospital.com"
-},
-{
-    "site_name":"SpiritualCare",
-    "dept" : "SPIRITUAL CARE (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "spiritualcare@bhaktivedantahospital.com"
-},
-{
-    "site_name":"BioMedical",
-    "dept" : "BIO-MEDICAL (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "biomedical@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Quality",
-    "dept" : "Quality",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "nabh@bhaktivedantahospital.com"
-},
-{
-    "site_name":"MedicalResearch",
-    "dept" : "MEDICAL RESEARCH (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "medicalreaserch@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Community",
-    "dept" : "COMMUNITY HEALTH CENTRE (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "community@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Optical",
-    "dept" : "OPTOMETRY SERVICES/OPTICAL (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "community@bhaktivedantahospital.com"
-},
-{
-    "site_name":"Outreach",
-    "dept" : "EYE CAMP - CHC (SD)",
-    "user" : "administrator",
-    "pass" : "TableauAdmin@123",
-    "email" : "community@bhaktivedantahospital.com"
-}
 ]
 }
